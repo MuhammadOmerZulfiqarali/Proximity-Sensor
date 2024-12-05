@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Proximity Sensor</string>
+    <string name="qr_code_generator">QR Code Generator</string>
+    <string name="proximity_sensor">Proximity Sensor</string>
+</resources>
